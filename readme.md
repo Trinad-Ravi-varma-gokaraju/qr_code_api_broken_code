@@ -1,8 +1,5 @@
 # RestAPI for Creating QR Codes
 
-# Instructor Videos
-* [Rest API Project Overview](https://youtu.be/xEcBKSSXxhQ)
-
 # Screenshots
 Screenshot of the image in CI/CD Pipeline here
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/0ed905b6-5779-476e-8e68-9d1a38f59471">
